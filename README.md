@@ -1,6 +1,4 @@
-
-
-[![MasterHead](https://pbs.twimg.com/profile_banners/1300110415867772929/1673370032/600x200)]
+![MasterHead](https://pbs.twimg.com/profile_banners/1300110415867772929/1673370032/600x200)
 <h1 align="center">Hi 👋, I'm Tanvir Ahamed Anik</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
