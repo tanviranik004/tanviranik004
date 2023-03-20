@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tanvir-anik.contriverridoy.com/](https://tanvir-anik.contriverridoy.com/)
 
-- 💬 Ask me about **React ,Vue ,Node.js**
+- 💬 Ask me about **React ,Vue ,Node.js,Python,Django**
 
 - 📫 How to reach me **tanvir.anik004@gmail.com**
 
