@@ -35,5 +35,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tanviranik004" height="150" alt="languages graph"  />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviranik004&show_icons=true&locale=en" alt="tanviranik004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviranik004&show_icons=true&locale=en" height="150" alt="tanviranik004" /></p>
 </div>
