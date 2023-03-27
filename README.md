@@ -34,6 +34,8 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=tanviranik004&show_icons=true&locale=en" height="150" alt="tanviranik004" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=tanviranik004&show_icons=true&locale=en" />
 
 
 
